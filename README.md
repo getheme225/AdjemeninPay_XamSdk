@@ -1,0 +1,1 @@
+# AdjemeninPay_XamSdk
